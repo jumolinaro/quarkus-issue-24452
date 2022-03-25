@@ -1,0 +1,15 @@
+{
+  "namespace": "quarkus",
+  "type": "record",
+  "name": "GreetingMessage",
+  "fields": [
+    {
+      "name": "title",
+      "type": "string"
+    },
+    {
+      "name": "body",
+      "type": "string"
+    }
+  ]
+}
